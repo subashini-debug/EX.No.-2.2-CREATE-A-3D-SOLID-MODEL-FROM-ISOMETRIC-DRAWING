@@ -109,6 +109,6 @@ Output:
 <img width="1920" height="1080" alt="Screenshot (156)" src="https://github.com/user-attachments/assets/20e75088-0b5b-420e-b25a-74a1cb5d5e02" />
 
 ## RESULT: 
-Thus, the 3D model is created from given isometric drawing.
+Thus, the 3D model is created from given isometric drawing
 
 
